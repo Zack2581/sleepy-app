@@ -8,7 +8,7 @@ class Header extends Component {
       <header className="Header">
         <img src={logo} className="Logo" alt="logo" />
         <p>
-          🐙 Edit <code>src/App.js</code> and save to reload.
+        🤢Christian Smells And He Is Mad Because He No Get Pizza🤢
         </p>
         <a
           className="Link"
